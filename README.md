@@ -1,4 +1,14 @@
-ASCIICopterDist
-===============
+ASCII Copter Game Distributable
+==================================
 
-Ascii Copter Distributable
+Controls:
+
+Space - Fly
+
+Left/Right - Tilt
+
+"/" - Shoot Missiles
+
+"#" - Drop Bombs
+
+? - Toggle Target lock
