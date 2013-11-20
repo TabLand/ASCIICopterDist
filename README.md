@@ -1,5 +1,9 @@
 ASCII Copter Game Distributable
-==================================
+==================================  
+  
+**Installation**  
+Make sure you clone all files into the same directory. Then run IN1007.jar!  
+The game will silently fail if image and lib files are not in the same directory. Will fix this bug soon!  
 
 **Controls:**  
 Space - Fly  
